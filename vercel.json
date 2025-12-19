@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://intellectual-forms-130429.framer.app"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://intellectual-forms-130429.framer.app/$1"
+    }
+  ]
+}
