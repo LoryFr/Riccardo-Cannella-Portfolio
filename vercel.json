@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://intellectual-forms-130429.framer.app"
+      "destination": "https://curious-hiring-637233.framer.app/"
     },
     {
       "source": "/:path*",
-      "destination": "https://intellectual-forms-130429.framer.app/:path*"
+      "destination": "https://curious-hiring-637233.framer.app/:path*"
     }
   ]
 }
